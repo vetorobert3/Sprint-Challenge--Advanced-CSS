@@ -221,3 +221,7 @@ footer {
   height: auto;
   border-radius: 10px;
 }
+.home .nav {
+  display: flex;
+  justify-content: center;
+}
