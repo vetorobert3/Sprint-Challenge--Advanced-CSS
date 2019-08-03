@@ -271,6 +271,9 @@ nav .tags a {
   align-items: center;
 }
 @media (max-width: 500px) {
+  .container img {
+    width: 500px;
+  }
   .home {
     padding: 4%;
     width: 100%;
@@ -300,6 +303,7 @@ nav .tags a {
   }
   .home .walk .walk-img {
     width: 100%;
+    padding-bottom: 4%;
     margin-left: 0;
   }
   .home .walk .walk-img img {
